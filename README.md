@@ -1,2 +1,2 @@
 # Asteroids
-Nasa asteroid tracking using API:
+Nasa asteroid tracking using API:This project focuses on the structured extraction, transformation, and interactive visualization of NASA’s Near-Earth Object (NEO) data using its public API. It equips users with end-to-end skills in API integration, data cleaning, SQL-based relational modeling, and dashboard development with Streamlit. Scientifically, the project emphasizes asteroid risk assessment through analysis of velocity, proximity, and hazard potential. By transforming complex astronomical data into accessible insights, it supports planetary defense research and democratizes space science for both academic and public use.
